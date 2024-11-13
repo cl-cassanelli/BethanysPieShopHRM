@@ -59,7 +59,7 @@ Here’s a breakdown of the main topics included in this course:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cl-cassanelli/BethanysPieShopHRM.git```
+   git clone https://github.com/cl-cassanelli/BethanysPieShopHRM.git
 2.  Open the project in Visual Studio or Visual Studio Code.
     
 3.  Explore the modules and code examples to understand each concept better.
